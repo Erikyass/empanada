@@ -1,4 +1,4 @@
-# empanada
+#empanada1
 practica
 *{
 	margin: 0;
@@ -19,6 +19,10 @@ h2 {
   text-align: center;
   color: #15ab92;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b8802f302fcbd5c2229a4d710d5e5748b400a502
 p{
 	font-style: italic;
 	text-shadow: 1px 1px #fff;
@@ -37,6 +41,10 @@ header{
 	margin-bottom: 20px;
 	box-sizing: border-box;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b8802f302fcbd5c2229a4d710d5e5748b400a502
 .centra{
 	width: 100%;
 	max-width: 1000px;
@@ -52,8 +60,15 @@ li {
   text-shadow: 1px 1px #fff;
   font-size: 35px;
   letter-spacing: 1px;
+<<<<<<< HEAD
   color: #7f00b2; 
 }
+=======
+  color: #7f00b2;
+  
+}
+
+>>>>>>> b8802f302fcbd5c2229a4d710d5e5748b400a502
 header .logo{
 	color: white;
 	font-size: 50px;
